@@ -1,5 +1,5 @@
 # SmartGrowing AR Viewer
-Unity AR Project
+Simple C# scripts Unity AR Project
 
 
 <div align="center">
